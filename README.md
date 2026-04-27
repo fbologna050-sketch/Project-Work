@@ -131,6 +131,6 @@ Colonne opzionali: `id`, `department`, `sentiment` (usate per confronto se prese
 
 ## 👤 Autore
 
-**Nome e Cognome:** Francesco Bologna
-**Matricola:** 0312300081
-**Corso di Laurea:** Informatica per le Aziende Digitali (L-31)
+1. **Nome e Cognome:** Francesco Bologna
+2. **Matricola:** 0312300081
+3. **Corso di Laurea:** Informatica per le Aziende Digitali (L-31)
