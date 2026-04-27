@@ -131,5 +131,5 @@ Colonne opzionali: `id`, `department`, `sentiment` (usate per confronto se prese
 
 ## 👤 Autore
 
-Progetto didattico — Hotel Review Classifier ML Prototype  
-Sviluppato con Python 3, scikit-learn, Gradio
+Progetto didattico — Francesco Bologna
+Sviluppato con Python 3, scikit-learn, Gradio.
