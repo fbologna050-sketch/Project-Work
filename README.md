@@ -1,7 +1,7 @@
 # 🏨 Hotel Review Classifier
 
-Prototipo ML per la classificazione automatica di recensioni hotel per **reparto** e **sentiment**.
-
+Prototipo ML per la classificazione automatica di recensioni hotel per **reparto** e **sentiment**
+(sviluppato con Python 3, scikit-learn, Gradio).
 ---
 
 ## 📁 Struttura del progetto
@@ -131,6 +131,6 @@ Colonne opzionali: `id`, `department`, `sentiment` (usate per confronto se prese
 
 ## 👤 Autore
 
-1.**Nome e Cognome:** Francesco Bologna
-2.**Matricola:** 0312300081
-3.**Corso di Laurea:** Informatica per le Aziende Digitali (L-31)
+1. **Nome e Cognome:** Francesco Bologna
+2. **Matricola:** 0312300081
+3. **Corso di Laurea:** Informatica per le Aziende Digitali (L-31)
