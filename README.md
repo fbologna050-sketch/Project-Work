@@ -131,6 +131,6 @@ Colonne opzionali: `id`, `department`, `sentiment` (usate per confronto se prese
 
 ## 👤 Autore
 
-Progetto didattico — Francesco Bologna.
-
-Progetto sviluppato con Python 3, scikit-learn, Gradio.
+Francesco Bologna
+Corso di informatica per le aziende digitali L-31.
+Progetto didattico sviluppato con Python 3, scikit-learn, Gradio.
