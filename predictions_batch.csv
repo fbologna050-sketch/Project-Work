@@ -1,0 +1,409 @@
+id,title,body,department,sentiment,pred_department,pred_sentiment,dept_confidence,sent_confidence
+1,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana.,Housekeeping,negative,Housekeeping,negative,0.827,0.816
+2,Problemi con prenotazione,Hanno perso la mia prenotazione e mi hanno assegnato una camera diversa senza avvisarmi.,Reception,negative,Reception,negative,0.813,0.697
+3,Check-in velocissimo,Il check-in è durato meno di cinque minuti. Staff cordiale e molto efficiente.,Reception,positive,Reception,positive,0.847,0.749
+4,Buffet abbondante,"Il buffet del mattino offriva tantissime scelte, tutte fresche. Soddisfatto ogni giorno. Tornerò sicuramente.",F&B,positive,F&B,positive,0.788,0.845
+5,Staff scortese,Il personale alla reception era freddo e scocciato. Non si sono nemmeno scusati per il ritardo.,Reception,negative,Reception,negative,0.777,0.818
+6,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno.",Housekeeping,positive,Housekeeping,positive,0.869,0.801
+7,Servizio lento,I camerieri erano pochi e lentissimi. La cena si è trasformata in un'attesa estenuante.,F&B,negative,F&B,negative,0.773,0.779
+8,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia.,Housekeeping,positive,Housekeeping,positive,0.873,0.834
+9,Attesa interminabile al check-in,Ho aspettato più di 30 minuti per fare il check-in. Una sola persona allo sportello. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.783,0.854
+10,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.847,0.864
+11,Colazione deludente,"Il buffet era scarno: pane raffermo, succhi di frutta finti e nessuna scelta salata. Delusione.",F&B,negative,F&B,negative,0.82,0.8
+12,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno.,Housekeeping,positive,Housekeeping,positive,0.857,0.798
+13,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia.,Housekeeping,positive,Housekeeping,positive,0.873,0.834
+14,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana.,Housekeeping,negative,Housekeeping,negative,0.827,0.816
+15,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile.,Housekeeping,negative,Housekeeping,negative,0.796,0.81
+16,Personale non informato,Ho chiesto informazioni sul bus e lo staff non sapeva nulla. Deludente e poco professionale. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.791,0.827
+17,Opzioni vegetariane assenti,Nessun piatto vegetariano al ristorante. Per chi non mangia carne è stato un problema.,F&B,negative,F&B,negative,0.792,0.774
+18,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli.",Housekeeping,positive,Housekeeping,positive,0.844,0.787
+19,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente.,Housekeeping,negative,Housekeeping,negative,0.829,0.792
+20,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi.,Housekeeping,negative,Housekeeping,negative,0.841,0.812
+21,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.826,0.84
+22,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi.,Housekeeping,negative,Housekeeping,negative,0.841,0.812
+23,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception.,Housekeeping,negative,Housekeeping,negative,0.805,0.831
+24,Personale disponibile,Il personale della reception è stato sempre gentile e pronto a risolvere ogni problema.,Reception,positive,Reception,positive,0.805,0.729
+25,Menu vario,Il menu offriva piatti tipici regionali e internazionali. Ho mangiato benissimo per tutta la settimana.,F&B,positive,F&B,positive,0.785,0.726
+26,Buffet abbondante,"Il buffet del mattino offriva tantissime scelte, tutte fresche. Soddisfatto ogni giorno. Tornerò sicuramente.",F&B,positive,F&B,positive,0.788,0.845
+27,Ottimo supporto,Ho avuto un problema con la chiave e lo staff lo ha risolto in pochi minuti. Ottimo.,Reception,positive,Reception,positive,0.786,0.757
+28,Servizio lento,I camerieri erano pochi e lentissimi. La cena si è trasformata in un'attesa estenuante. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.764,0.835
+29,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana.,Housekeeping,negative,Housekeeping,negative,0.827,0.816
+30,Menu vario,Il menu offriva piatti tipici regionali e internazionali. Ho mangiato benissimo per tutta la settimana.,F&B,positive,F&B,positive,0.785,0.726
+31,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception.,Housekeeping,negative,Housekeeping,negative,0.805,0.831
+32,Staff scortese,Il personale alla reception era freddo e scocciato. Non si sono nemmeno scusati per il ritardo.,Reception,negative,Reception,negative,0.777,0.818
+33,Personale non informato,Ho chiesto informazioni sul bus e lo staff non sapeva nulla. Deludente e poco professionale. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.791,0.827
+34,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi.,Housekeeping,negative,Housekeeping,negative,0.841,0.812
+35,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato.,Housekeeping,negative,Housekeeping,negative,0.865,0.801
+36,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia.,Housekeeping,positive,Housekeeping,positive,0.873,0.834
+37,Check-in velocissimo,Il check-in è durato meno di cinque minuti. Staff cordiale e molto efficiente. Tornerò sicuramente.,Reception,positive,Reception,positive,0.832,0.82
+38,Problemi con prenotazione,Hanno perso la mia prenotazione e mi hanno assegnato una camera diversa senza avvisarmi.,Reception,negative,Reception,negative,0.813,0.697
+39,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.868,0.88
+40,Staff scortese,Il personale alla reception era freddo e scocciato. Non si sono nemmeno scusati per il ritardo.,Reception,negative,Reception,negative,0.777,0.818
+41,Conto errato,Al momento del check-out ho trovato addebiti non corretti. Ci è voluto molto tempo per sistemare.,Reception,negative,Reception,negative,0.772,0.744
+42,Nessuna risposta al telefono,Ho chiamato la reception tre volte ma non hanno mai risposto. Pessimo servizio. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.718,0.857
+43,Servizio bar impeccabile,Il bar era sempre attivo e il barista preparava ottimi cocktail. Ambiente rilassante.,F&B,positive,F&B,positive,0.807,0.771
+44,Opzioni vegetariane assenti,Nessun piatto vegetariano al ristorante. Per chi non mangia carne è stato un problema. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.782,0.827
+45,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.816,0.869
+46,Pagamento semplice,Il pagamento è stato gestito in modo rapido e trasparente. Nessuna sorpresa sul conto.,Reception,positive,Reception,positive,0.792,0.788
+47,Arrivo anticipato gestito bene,Ho chiesto di fare il check-in prima dell'orario e me lo hanno permesso senza problemi.,Reception,positive,Reception,positive,0.834,0.794
+48,Nessuna risposta al telefono,Ho chiamato la reception tre volte ma non hanno mai risposto. Pessimo servizio.,Reception,negative,Reception,negative,0.749,0.807
+49,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno.",Housekeeping,positive,Housekeeping,positive,0.869,0.801
+50,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata.,Housekeeping,positive,Housekeeping,positive,0.839,0.82
+51,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri.",Housekeeping,negative,Housekeeping,negative,0.84,0.779
+52,Colazione deludente,"Il buffet era scarno: pane raffermo, succhi di frutta finti e nessuna scelta salata. Delusione. Non consiglio questo hotel.",F&B,negative,F&B,negative,0.813,0.849
+53,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.833,0.876
+54,Staff scortese,Il personale alla reception era freddo e scocciato. Non si sono nemmeno scusati per il ritardo. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.746,0.864
+55,Servizio bar impeccabile,Il bar era sempre attivo e il barista preparava ottimi cocktail. Ambiente rilassante.,F&B,positive,F&B,positive,0.807,0.771
+56,Nessuna risposta al telefono,Ho chiamato la reception tre volte ma non hanno mai risposto. Pessimo servizio. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.718,0.857
+57,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri. Non consiglio questo hotel.",Housekeeping,negative,Housekeeping,negative,0.83,0.832
+58,Colazione deludente,"Il buffet era scarno: pane raffermo, succhi di frutta finti e nessuna scelta salata. Delusione. Non consiglio questo hotel.",F&B,negative,F&B,negative,0.813,0.849
+59,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno.,Housekeeping,positive,Housekeeping,positive,0.857,0.798
+60,Personale disponibile,Il personale della reception è stato sempre gentile e pronto a risolvere ogni problema.,Reception,positive,Reception,positive,0.805,0.729
+61,Servizio bar impeccabile,Il bar era sempre attivo e il barista preparava ottimi cocktail. Ambiente rilassante.,F&B,positive,F&B,positive,0.807,0.771
+62,Opzioni vegetariane assenti,Nessun piatto vegetariano al ristorante. Per chi non mangia carne è stato un problema.,F&B,negative,F&B,negative,0.792,0.774
+63,Cena romantica perfetta,Abbiamo cenato nel ristorante interno: pesce freschissimo e un'ottima carta dei vini.,F&B,positive,F&B,positive,0.789,0.763
+64,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno.",Housekeeping,positive,Housekeeping,positive,0.869,0.801
+65,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro.",Housekeeping,positive,Housekeeping,positive,0.803,0.808
+66,Servizio bar impeccabile,Il bar era sempre attivo e il barista preparava ottimi cocktail. Ambiente rilassante.,F&B,positive,F&B,positive,0.807,0.771
+67,Informazioni utili,"La receptionist mi ha fornito mappe, consigli sui ristoranti e prenotato un taxi. Perfetta.",Reception,positive,Reception,positive,0.752,0.693
+68,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno.",Housekeeping,positive,Housekeeping,positive,0.869,0.801
+69,Arrivo anticipato gestito bene,Ho chiesto di fare il check-in prima dell'orario e me lo hanno permesso senza problemi.,Reception,positive,Reception,positive,0.834,0.794
+70,Pagamento semplice,Il pagamento è stato gestito in modo rapido e trasparente. Nessuna sorpresa sul conto.,Reception,positive,Reception,positive,0.792,0.788
+71,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.861,0.861
+72,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno.,Housekeeping,positive,Housekeeping,positive,0.857,0.798
+73,Staff del ristorante premuroso,"I camerieri erano attenti e gentili, suggerendo piatti e vini in modo professionale. Tornerò sicuramente.",F&B,positive,F&B,positive,0.794,0.823
+74,Colazione deliziosa,"La colazione a buffet era ricchissima: frutta fresca, uova, dolci artigianali. Ottimo inizio giornata. Tornerò sicuramente.",F&B,positive,F&B,positive,0.765,0.829
+75,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata.,Housekeeping,positive,Housekeeping,positive,0.839,0.82
+76,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.865,0.837
+77,Ristorante eccellente,La cena al ristorante dell'hotel era di ottima qualità. Piatti curati e porzioni generose. Tornerò sicuramente.,F&B,positive,F&B,positive,0.811,0.805
+78,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.792,0.875
+79,Personale non informato,Ho chiesto informazioni sul bus e lo staff non sapeva nulla. Deludente e poco professionale.,Reception,negative,Reception,negative,0.814,0.769
+80,Colazione deliziosa,"La colazione a buffet era ricchissima: frutta fresca, uova, dolci artigianali. Ottimo inizio giornata. Tornerò sicuramente.",F&B,positive,F&B,positive,0.765,0.829
+81,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro.",Housekeeping,positive,Housekeeping,positive,0.803,0.808
+82,Colazione finita presto,Arrivato alle 9 il buffet era quasi completamente esaurito. Rimasti solo gli avanzi. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.77,0.844
+83,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception.,Housekeeping,negative,Housekeeping,negative,0.805,0.831
+84,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno.",Housekeeping,positive,Housekeeping,positive,0.869,0.801
+85,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine.",Housekeeping,positive,Housekeeping,positive,0.833,0.779
+86,Camera non pronta,Arrivato alle 15 come da prenotazione ma la camera non era ancora pronta. Inaccettabile. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.618,0.827
+87,Attesa interminabile al check-in,Ho aspettato più di 30 minuti per fare il check-in. Una sola persona allo sportello.,Reception,negative,Reception,negative,0.808,0.802
+88,Ottimo supporto,Ho avuto un problema con la chiave e lo staff lo ha risolto in pochi minuti. Ottimo.,Reception,positive,Reception,positive,0.786,0.757
+89,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante.,Housekeeping,positive,Housekeeping,positive,0.87,0.772
+90,Personale non informato,Ho chiesto informazioni sul bus e lo staff non sapeva nulla. Deludente e poco professionale.,Reception,negative,Reception,negative,0.814,0.769
+91,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile.,Housekeeping,negative,Housekeeping,negative,0.796,0.81
+92,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.837,0.849
+93,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato.,Housekeeping,negative,Housekeeping,negative,0.865,0.801
+94,Ristorante eccellente,La cena al ristorante dell'hotel era di ottima qualità. Piatti curati e porzioni generose. Tornerò sicuramente.,F&B,positive,F&B,positive,0.811,0.805
+95,Qualità scarsa,I piatti sembravano pre-confezionati e riscaldati. Niente a che vedere con la descrizione nel menu. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.807,0.8
+96,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.847,0.864
+97,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento.,Housekeeping,negative,Housekeeping,negative,0.866,0.782
+98,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno.",Housekeeping,positive,Housekeeping,positive,0.869,0.801
+99,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato.,Housekeeping,negative,Housekeeping,negative,0.865,0.801
+100,Arrivo anticipato gestito bene,Ho chiesto di fare il check-in prima dell'orario e me lo hanno permesso senza problemi.,Reception,positive,Reception,positive,0.834,0.794
+101,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno.,Housekeeping,positive,Housekeeping,positive,0.857,0.798
+102,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.85,0.846
+103,Problemi con prenotazione,Hanno perso la mia prenotazione e mi hanno assegnato una camera diversa senza avvisarmi.,Reception,negative,Reception,negative,0.813,0.697
+104,Bar sempre chiuso,Il bar era spesso chiuso anche nelle ore indicate. Ho dovuto uscire per trovare qualcosa da bere.,F&B,negative,F&B,negative,0.769,0.762
+105,Menu vario,Il menu offriva piatti tipici regionali e internazionali. Ho mangiato benissimo per tutta la settimana. Tornerò sicuramente.,F&B,positive,F&B,positive,0.765,0.797
+106,Pagamento semplice,Il pagamento è stato gestito in modo rapido e trasparente. Nessuna sorpresa sul conto. Tornerò sicuramente.,Reception,positive,Reception,positive,0.776,0.844
+107,Personale disponibile,Il personale della reception è stato sempre gentile e pronto a risolvere ogni problema. Tornerò sicuramente.,Reception,positive,Reception,positive,0.786,0.81
+108,Camera non pronta,Arrivato alle 15 come da prenotazione ma la camera non era ancora pronta. Inaccettabile. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.618,0.827
+109,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana.,Housekeeping,negative,Housekeeping,negative,0.827,0.816
+110,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.793,0.858
+111,Personale disponibile,Il personale della reception è stato sempre gentile e pronto a risolvere ogni problema. Tornerò sicuramente.,Reception,positive,Reception,positive,0.786,0.81
+112,Cena romantica perfetta,Abbiamo cenato nel ristorante interno: pesce freschissimo e un'ottima carta dei vini.,F&B,positive,F&B,positive,0.789,0.763
+113,Arrivo anticipato gestito bene,Ho chiesto di fare il check-in prima dell'orario e me lo hanno permesso senza problemi. Tornerò sicuramente.,Reception,positive,Reception,positive,0.815,0.848
+114,Colazione puntuale in camera,Ho ordinato la colazione in camera ed è arrivata perfettamente in orario e ben presentata.,F&B,positive,F&B,positive,0.768,0.795
+115,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente.,Housekeeping,negative,Housekeeping,negative,0.829,0.792
+116,Pagamento semplice,Il pagamento è stato gestito in modo rapido e trasparente. Nessuna sorpresa sul conto.,Reception,positive,Reception,positive,0.792,0.788
+117,Qualità scarsa,I piatti sembravano pre-confezionati e riscaldati. Niente a che vedere con la descrizione nel menu.,F&B,negative,F&B,negative,0.818,0.737
+118,Staff scortese,Il personale alla reception era freddo e scocciato. Non si sono nemmeno scusati per il ritardo.,Reception,negative,Reception,negative,0.777,0.818
+119,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato.,Housekeeping,negative,Housekeeping,negative,0.865,0.801
+120,Conto errato,Al momento del check-out ho trovato addebiti non corretti. Ci è voluto molto tempo per sistemare.,Reception,negative,Reception,negative,0.772,0.744
+121,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata.,Housekeeping,positive,Housekeeping,positive,0.839,0.82
+122,Staff scortese,Il personale alla reception era freddo e scocciato. Non si sono nemmeno scusati per il ritardo. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.746,0.864
+123,Colazione deliziosa,"La colazione a buffet era ricchissima: frutta fresca, uova, dolci artigianali. Ottimo inizio giornata. Tornerò sicuramente.",F&B,positive,F&B,positive,0.765,0.829
+124,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana.,Housekeeping,negative,Housekeeping,negative,0.827,0.816
+125,Ottimo supporto,Ho avuto un problema con la chiave e lo staff lo ha risolto in pochi minuti. Ottimo.,Reception,positive,Reception,positive,0.786,0.757
+126,Check-out complicato,Il check-out ha richiesto quasi un'ora a causa di errori nel conto. Esperienza stressante.,Reception,negative,Reception,negative,0.809,0.79
+127,Check-out rapido,Il check-out è stato veloce e senza intoppi. Mi hanno anche preparato il conto in anticipo. Tornerò sicuramente.,Reception,positive,Reception,positive,0.854,0.81
+128,Accoglienza calorosa,Al mio arrivo sono stato accolto con un sorriso e una spiegazione chiara dei servizi.,Reception,positive,Reception,positive,0.777,0.755
+129,Qualità scarsa,I piatti sembravano pre-confezionati e riscaldati. Niente a che vedere con la descrizione nel menu.,F&B,negative,F&B,negative,0.818,0.737
+130,Colazione deludente,"Il buffet era scarno: pane raffermo, succhi di frutta finti e nessuna scelta salata. Delusione. Non consiglio questo hotel.",F&B,negative,F&B,negative,0.813,0.849
+131,Cibo freddo servito,Il cibo al ristorante è arrivato freddo due sere di fila. Il personale non se n'è scusato.,F&B,negative,F&B,negative,0.813,0.804
+132,Colazione deludente,"Il buffet era scarno: pane raffermo, succhi di frutta finti e nessuna scelta salata. Delusione.",F&B,negative,F&B,negative,0.82,0.8
+133,Servizi contrastanti,"Bagno pulitissimo, letto comodo. Il ristorante però lasciava a desiderare per qualità e tempi.",F&B,negative,F&B,negative,0.527,0.579
+134,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri.",Housekeeping,negative,Housekeeping,negative,0.84,0.779
+135,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.793,0.858
+136,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia.,Housekeeping,positive,Housekeeping,positive,0.873,0.834
+137,Nessuna risposta al telefono,Ho chiamato la reception tre volte ma non hanno mai risposto. Pessimo servizio.,Reception,negative,Reception,negative,0.749,0.807
+138,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento.,Housekeeping,negative,Housekeeping,negative,0.866,0.782
+139,Check-in velocissimo,Il check-in è durato meno di cinque minuti. Staff cordiale e molto efficiente.,Reception,positive,Reception,positive,0.847,0.749
+140,Cena romantica perfetta,Abbiamo cenato nel ristorante interno: pesce freschissimo e un'ottima carta dei vini.,F&B,positive,F&B,positive,0.789,0.763
+141,Check-out rapido,Il check-out è stato veloce e senza intoppi. Mi hanno anche preparato il conto in anticipo. Tornerò sicuramente.,Reception,positive,Reception,positive,0.854,0.81
+142,Tempi di attesa lunghissimi,Abbiamo aspettato quasi un'ora per essere serviti a cena. Inaccettabile per un hotel di questo livello.,F&B,negative,F&B,negative,0.791,0.826
+143,Hotel nel complesso ok,"La reception era lenta ma il personale gentile. Colazione nella norma, niente di speciale.",Reception,negative,Reception,negative,0.519,0.621
+144,Servizio bar impeccabile,Il bar era sempre attivo e il barista preparava ottimi cocktail. Ambiente rilassante. Tornerò sicuramente.,F&B,positive,F&B,positive,0.785,0.833
+145,Check-in velocissimo,Il check-in è durato meno di cinque minuti. Staff cordiale e molto efficiente. Tornerò sicuramente.,Reception,positive,Reception,positive,0.832,0.82
+146,Bar sempre chiuso,Il bar era spesso chiuso anche nelle ore indicate. Ho dovuto uscire per trovare qualcosa da bere.,F&B,negative,F&B,negative,0.769,0.762
+147,Pagamento semplice,Il pagamento è stato gestito in modo rapido e trasparente. Nessuna sorpresa sul conto.,Reception,positive,Reception,positive,0.792,0.788
+148,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.868,0.88
+149,Informazioni utili,"La receptionist mi ha fornito mappe, consigli sui ristoranti e prenotato un taxi. Perfetta. Tornerò sicuramente.",Reception,positive,Reception,positive,0.741,0.77
+150,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri.",Housekeeping,negative,Housekeeping,negative,0.84,0.779
+151,Check-out rapido,Il check-out è stato veloce e senza intoppi. Mi hanno anche preparato il conto in anticipo.,Reception,positive,Reception,positive,0.868,0.736
+152,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine.",Housekeeping,positive,Housekeeping,positive,0.833,0.779
+153,Bar sempre chiuso,Il bar era spesso chiuso anche nelle ore indicate. Ho dovuto uscire per trovare qualcosa da bere.,F&B,negative,F&B,negative,0.769,0.762
+154,Colazione deliziosa,"La colazione a buffet era ricchissima: frutta fresca, uova, dolci artigianali. Ottimo inizio giornata.",F&B,positive,F&B,positive,0.787,0.773
+155,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile.,Housekeeping,negative,Housekeeping,negative,0.796,0.81
+156,Arrivo anticipato gestito bene,Ho chiesto di fare il check-in prima dell'orario e me lo hanno permesso senza problemi.,Reception,positive,Reception,positive,0.834,0.794
+157,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception.,Housekeeping,negative,Housekeeping,negative,0.805,0.831
+158,Cibo freddo servito,Il cibo al ristorante è arrivato freddo due sere di fila. Il personale non se n'è scusato.,F&B,negative,F&B,negative,0.813,0.804
+159,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri.",Housekeeping,negative,Housekeeping,negative,0.84,0.779
+160,Servizio bar impeccabile,Il bar era sempre attivo e il barista preparava ottimi cocktail. Ambiente rilassante. Tornerò sicuramente.,F&B,positive,F&B,positive,0.785,0.833
+161,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.865,0.837
+162,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.855,0.856
+163,Accoglienza calorosa,Al mio arrivo sono stato accolto con un sorriso e una spiegazione chiara dei servizi.,Reception,positive,Reception,positive,0.777,0.755
+164,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli.",Housekeeping,positive,Housekeeping,positive,0.844,0.787
+165,Servizio lento,I camerieri erano pochi e lentissimi. La cena si è trasformata in un'attesa estenuante.,F&B,negative,F&B,negative,0.773,0.779
+166,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi.,Housekeeping,negative,Housekeeping,negative,0.841,0.812
+167,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.792,0.875
+168,Buffet abbondante,"Il buffet del mattino offriva tantissime scelte, tutte fresche. Soddisfatto ogni giorno.",F&B,positive,F&B,positive,0.814,0.781
+169,Camera non pronta,Arrivato alle 15 come da prenotazione ma la camera non era ancora pronta. Inaccettabile.,Reception,negative,Reception,negative,0.667,0.76
+170,Personale disponibile,Il personale della reception è stato sempre gentile e pronto a risolvere ogni problema.,Reception,positive,Reception,positive,0.805,0.729
+171,Nessuna risposta al telefono,Ho chiamato la reception tre volte ma non hanno mai risposto. Pessimo servizio.,Reception,negative,Reception,negative,0.749,0.807
+172,Colazione deliziosa,"La colazione a buffet era ricchissima: frutta fresca, uova, dolci artigianali. Ottimo inizio giornata.",F&B,positive,F&B,positive,0.787,0.773
+173,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.802,0.863
+174,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.834,0.86
+175,Check-out rapido,Il check-out è stato veloce e senza intoppi. Mi hanno anche preparato il conto in anticipo.,Reception,positive,Reception,positive,0.868,0.736
+176,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente.,Housekeeping,negative,Housekeeping,negative,0.829,0.792
+177,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante.,Housekeeping,positive,Housekeeping,positive,0.87,0.772
+178,Check-out complicato,Il check-out ha richiesto quasi un'ora a causa di errori nel conto. Esperienza stressante. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.792,0.838
+179,Camera non pronta,Arrivato alle 15 come da prenotazione ma la camera non era ancora pronta. Inaccettabile.,Reception,negative,Reception,negative,0.667,0.76
+180,Tempi di attesa lunghissimi,Abbiamo aspettato quasi un'ora per essere serviti a cena. Inaccettabile per un hotel di questo livello.,F&B,negative,F&B,negative,0.791,0.826
+181,Staff del ristorante premuroso,"I camerieri erano attenti e gentili, suggerendo piatti e vini in modo professionale.",F&B,positive,F&B,positive,0.815,0.764
+182,Migliorabile,Check-out veloce e staff gentile ma il ristorante aveva poco personale e il cibo era freddo.,F&B,negative,F&B,negative,0.466,0.632
+183,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.861,0.861
+184,Check-out complicato,Il check-out ha richiesto quasi un'ora a causa di errori nel conto. Esperienza stressante.,Reception,negative,Reception,negative,0.809,0.79
+185,Cibo freddo servito,Il cibo al ristorante è arrivato freddo due sere di fila. Il personale non se n'è scusato. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.806,0.849
+186,Accoglienza calorosa,Al mio arrivo sono stato accolto con un sorriso e una spiegazione chiara dei servizi.,Reception,positive,Reception,positive,0.777,0.755
+187,Check-out complicato,Il check-out ha richiesto quasi un'ora a causa di errori nel conto. Esperienza stressante. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.792,0.838
+188,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana.,Housekeeping,negative,Housekeeping,negative,0.827,0.816
+189,Conto errato,Al momento del check-out ho trovato addebiti non corretti. Ci è voluto molto tempo per sistemare.,Reception,negative,Reception,negative,0.772,0.744
+190,Problemi con prenotazione,Hanno perso la mia prenotazione e mi hanno assegnato una camera diversa senza avvisarmi.,Reception,negative,Reception,negative,0.813,0.697
+191,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.85,0.846
+192,Menu vario,Il menu offriva piatti tipici regionali e internazionali. Ho mangiato benissimo per tutta la settimana. Tornerò sicuramente.,F&B,positive,F&B,positive,0.765,0.797
+193,Attesa interminabile al check-in,Ho aspettato più di 30 minuti per fare il check-in. Una sola persona allo sportello. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.783,0.854
+194,Bar sempre chiuso,Il bar era spesso chiuso anche nelle ore indicate. Ho dovuto uscire per trovare qualcosa da bere. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.76,0.811
+195,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.837,0.849
+196,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi.,Housekeeping,negative,Housekeeping,negative,0.841,0.812
+197,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente.,Housekeeping,negative,Housekeeping,negative,0.829,0.792
+198,Colazione deliziosa,"La colazione a buffet era ricchissima: frutta fresca, uova, dolci artigianali. Ottimo inizio giornata.",F&B,positive,F&B,positive,0.787,0.773
+199,Camera non pronta,Arrivato alle 15 come da prenotazione ma la camera non era ancora pronta. Inaccettabile.,Reception,negative,Reception,negative,0.667,0.76
+200,Ristorante eccellente,La cena al ristorante dell'hotel era di ottima qualità. Piatti curati e porzioni generose. Tornerò sicuramente.,F&B,positive,F&B,positive,0.811,0.805
+201,Check-out rapido,Il check-out è stato veloce e senza intoppi. Mi hanno anche preparato il conto in anticipo.,Reception,positive,Reception,positive,0.868,0.736
+202,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento.,Housekeeping,negative,Housekeeping,negative,0.866,0.782
+203,Cibo freddo servito,Il cibo al ristorante è arrivato freddo due sere di fila. Il personale non se n'è scusato.,F&B,negative,F&B,negative,0.813,0.804
+204,Informazioni utili,"La receptionist mi ha fornito mappe, consigli sui ristoranti e prenotato un taxi. Perfetta.",Reception,positive,Reception,positive,0.752,0.693
+205,Staff del ristorante premuroso,"I camerieri erano attenti e gentili, suggerendo piatti e vini in modo professionale.",F&B,positive,F&B,positive,0.815,0.764
+206,Tempi di attesa lunghissimi,Abbiamo aspettato quasi un'ora per essere serviti a cena. Inaccettabile per un hotel di questo livello. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.775,0.86
+207,Buffet abbondante,"Il buffet del mattino offriva tantissime scelte, tutte fresche. Soddisfatto ogni giorno.",F&B,positive,F&B,positive,0.814,0.781
+208,Qualità scarsa,I piatti sembravano pre-confezionati e riscaldati. Niente a che vedere con la descrizione nel menu.,F&B,negative,F&B,negative,0.818,0.737
+209,Conto errato,Al momento del check-out ho trovato addebiti non corretti. Ci è voluto molto tempo per sistemare.,Reception,negative,Reception,negative,0.772,0.744
+210,Servizio lento,I camerieri erano pochi e lentissimi. La cena si è trasformata in un'attesa estenuante.,F&B,negative,F&B,negative,0.773,0.779
+211,Colazione finita presto,Arrivato alle 9 il buffet era quasi completamente esaurito. Rimasti solo gli avanzi.,F&B,negative,F&B,negative,0.781,0.793
+212,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.834,0.86
+213,Check-out complicato,Il check-out ha richiesto quasi un'ora a causa di errori nel conto. Esperienza stressante. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.792,0.838
+214,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia.,Housekeeping,positive,Housekeeping,positive,0.873,0.834
+215,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.861,0.861
+216,"Staff ok, cibo no",Il personale della reception ci ha accolto benissimo ma la cena al ristorante era pessima.,F&B,negative,F&B,negative,0.542,0.556
+217,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile.,Housekeeping,negative,Housekeeping,negative,0.796,0.81
+218,Check-in velocissimo,Il check-in è durato meno di cinque minuti. Staff cordiale e molto efficiente.,Reception,positive,Reception,positive,0.847,0.749
+219,Servizio bar impeccabile,Il bar era sempre attivo e il barista preparava ottimi cocktail. Ambiente rilassante.,F&B,positive,F&B,positive,0.807,0.771
+220,Camera non pronta,Arrivato alle 15 come da prenotazione ma la camera non era ancora pronta. Inaccettabile.,Reception,negative,Reception,negative,0.667,0.76
+221,Accoglienza calorosa,Al mio arrivo sono stato accolto con un sorriso e una spiegazione chiara dei servizi. Tornerò sicuramente.,Reception,positive,Reception,positive,0.762,0.819
+222,Colazione finita presto,Arrivato alle 9 il buffet era quasi completamente esaurito. Rimasti solo gli avanzi.,F&B,negative,F&B,negative,0.781,0.793
+223,Colazione puntuale in camera,Ho ordinato la colazione in camera ed è arrivata perfettamente in orario e ben presentata.,F&B,positive,F&B,positive,0.768,0.795
+224,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine.",Housekeeping,positive,Housekeeping,positive,0.833,0.779
+225,Check-in velocissimo,Il check-in è durato meno di cinque minuti. Staff cordiale e molto efficiente. Tornerò sicuramente.,Reception,positive,Reception,positive,0.832,0.82
+226,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente.,Housekeeping,negative,Housekeeping,negative,0.829,0.792
+227,Check-out rapido,Il check-out è stato veloce e senza intoppi. Mi hanno anche preparato il conto in anticipo. Tornerò sicuramente.,Reception,positive,Reception,positive,0.854,0.81
+228,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.847,0.864
+229,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro.",Housekeeping,positive,Housekeeping,positive,0.803,0.808
+230,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile.,Housekeeping,negative,Housekeeping,negative,0.796,0.81
+231,Colazione puntuale in camera,Ho ordinato la colazione in camera ed è arrivata perfettamente in orario e ben presentata.,F&B,positive,F&B,positive,0.768,0.795
+232,Nessuna risposta al telefono,Ho chiamato la reception tre volte ma non hanno mai risposto. Pessimo servizio.,Reception,negative,Reception,negative,0.749,0.807
+233,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli.",Housekeeping,positive,Housekeeping,positive,0.844,0.787
+234,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno.,Housekeeping,positive,Housekeeping,positive,0.857,0.798
+235,Tempi di attesa lunghissimi,Abbiamo aspettato quasi un'ora per essere serviti a cena. Inaccettabile per un hotel di questo livello.,F&B,negative,F&B,negative,0.791,0.826
+236,Informazioni utili,"La receptionist mi ha fornito mappe, consigli sui ristoranti e prenotato un taxi. Perfetta.",Reception,positive,Reception,positive,0.752,0.693
+237,Accoglienza calorosa,Al mio arrivo sono stato accolto con un sorriso e una spiegazione chiara dei servizi.,Reception,positive,Reception,positive,0.777,0.755
+238,Problemi con prenotazione,Hanno perso la mia prenotazione e mi hanno assegnato una camera diversa senza avvisarmi.,Reception,negative,Reception,negative,0.813,0.697
+239,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.82,0.843
+240,Staff scortese,Il personale alla reception era freddo e scocciato. Non si sono nemmeno scusati per il ritardo.,Reception,negative,Reception,negative,0.777,0.818
+241,Colazione deliziosa,"La colazione a buffet era ricchissima: frutta fresca, uova, dolci artigianali. Ottimo inizio giornata.",F&B,positive,F&B,positive,0.787,0.773
+242,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro.",Housekeeping,positive,Housekeeping,positive,0.803,0.808
+243,Colazione deliziosa,"La colazione a buffet era ricchissima: frutta fresca, uova, dolci artigianali. Ottimo inizio giornata.",F&B,positive,F&B,positive,0.787,0.773
+244,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception.,Housekeeping,negative,Housekeeping,negative,0.805,0.831
+245,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile.,Housekeeping,negative,Housekeeping,negative,0.796,0.81
+246,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.865,0.837
+247,Servizio lento,I camerieri erano pochi e lentissimi. La cena si è trasformata in un'attesa estenuante.,F&B,negative,F&B,negative,0.773,0.779
+248,Ristorante eccellente,La cena al ristorante dell'hotel era di ottima qualità. Piatti curati e porzioni generose.,F&B,positive,F&B,positive,0.83,0.742
+249,Menu vario,Il menu offriva piatti tipici regionali e internazionali. Ho mangiato benissimo per tutta la settimana.,F&B,positive,F&B,positive,0.785,0.726
+250,Pagamento semplice,Il pagamento è stato gestito in modo rapido e trasparente. Nessuna sorpresa sul conto. Tornerò sicuramente.,Reception,positive,Reception,positive,0.776,0.844
+251,Attesa interminabile al check-in,Ho aspettato più di 30 minuti per fare il check-in. Una sola persona allo sportello. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.783,0.854
+252,Cibo freddo servito,Il cibo al ristorante è arrivato freddo due sere di fila. Il personale non se n'è scusato. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.806,0.849
+253,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine.",Housekeeping,positive,Housekeeping,positive,0.833,0.779
+254,Attesa interminabile al check-in,Ho aspettato più di 30 minuti per fare il check-in. Una sola persona allo sportello.,Reception,negative,Reception,negative,0.808,0.802
+255,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri. Non consiglio questo hotel.",Housekeeping,negative,Housekeeping,negative,0.83,0.832
+256,Ristorante eccellente,La cena al ristorante dell'hotel era di ottima qualità. Piatti curati e porzioni generose.,F&B,positive,F&B,positive,0.83,0.742
+257,Tempi di attesa lunghissimi,Abbiamo aspettato quasi un'ora per essere serviti a cena. Inaccettabile per un hotel di questo livello. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.775,0.86
+258,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.855,0.856
+259,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.837,0.849
+260,Conto errato,Al momento del check-out ho trovato addebiti non corretti. Ci è voluto molto tempo per sistemare. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.753,0.805
+261,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi.,Housekeeping,negative,Housekeeping,negative,0.841,0.812
+262,Problemi con prenotazione,Hanno perso la mia prenotazione e mi hanno assegnato una camera diversa senza avvisarmi. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.785,0.766
+263,Cena romantica perfetta,Abbiamo cenato nel ristorante interno: pesce freschissimo e un'ottima carta dei vini. Tornerò sicuramente.,F&B,positive,F&B,positive,0.767,0.819
+264,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine.",Housekeeping,positive,Housekeeping,positive,0.833,0.779
+265,Colazione deludente,"Il buffet era scarno: pane raffermo, succhi di frutta finti e nessuna scelta salata. Delusione.",F&B,negative,F&B,negative,0.82,0.8
+266,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.855,0.856
+267,Camera non pronta,Arrivato alle 15 come da prenotazione ma la camera non era ancora pronta. Inaccettabile.,Reception,negative,Reception,negative,0.667,0.76
+268,Colazione deludente,"Il buffet era scarno: pane raffermo, succhi di frutta finti e nessuna scelta salata. Delusione.",F&B,negative,F&B,negative,0.82,0.8
+269,Un po' di tutto,Il personale alla reception era scortese. La camera era però pulita e la colazione discreta.,Reception,negative,Reception,negative,0.507,0.696
+270,Bar sempre chiuso,Il bar era spesso chiuso anche nelle ore indicate. Ho dovuto uscire per trovare qualcosa da bere.,F&B,negative,F&B,negative,0.769,0.762
+271,Servizio bar impeccabile,Il bar era sempre attivo e il barista preparava ottimi cocktail. Ambiente rilassante. Tornerò sicuramente.,F&B,positive,F&B,positive,0.785,0.833
+272,Ottima igiene,"La pulizia della camera era al top: nessun odore, lenzuola fresche e cambiate ogni giorno.",Housekeeping,positive,Housekeeping,positive,0.869,0.801
+273,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno.,Housekeeping,positive,Housekeeping,positive,0.857,0.798
+274,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.855,0.856
+275,Camera non pronta,Arrivato alle 15 come da prenotazione ma la camera non era ancora pronta. Inaccettabile.,Reception,negative,Reception,negative,0.667,0.76
+276,Check-out complicato,Il check-out ha richiesto quasi un'ora a causa di errori nel conto. Esperienza stressante.,Reception,negative,Reception,negative,0.809,0.79
+277,Check-out rapido,Il check-out è stato veloce e senza intoppi. Mi hanno anche preparato il conto in anticipo.,Reception,positive,Reception,positive,0.868,0.736
+278,Ottimo supporto,Ho avuto un problema con la chiave e lo staff lo ha risolto in pochi minuti. Ottimo.,Reception,positive,Reception,positive,0.786,0.757
+279,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante.,Housekeeping,positive,Housekeeping,positive,0.87,0.772
+280,Colazione finita presto,Arrivato alle 9 il buffet era quasi completamente esaurito. Rimasti solo gli avanzi.,F&B,negative,F&B,negative,0.781,0.793
+281,Opzioni vegetariane assenti,Nessun piatto vegetariano al ristorante. Per chi non mangia carne è stato un problema.,F&B,negative,F&B,negative,0.792,0.774
+282,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.837,0.849
+283,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante.,Housekeeping,positive,Housekeeping,positive,0.87,0.772
+284,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.865,0.837
+285,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli.",Housekeeping,positive,Housekeeping,positive,0.844,0.787
+286,Attesa interminabile al check-in,Ho aspettato più di 30 minuti per fare il check-in. Una sola persona allo sportello.,Reception,negative,Reception,negative,0.808,0.802
+287,Attesa interminabile al check-in,Ho aspettato più di 30 minuti per fare il check-in. Una sola persona allo sportello.,Reception,negative,Reception,negative,0.808,0.802
+288,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli.",Housekeeping,positive,Housekeeping,positive,0.844,0.787
+289,Buffet abbondante,"Il buffet del mattino offriva tantissime scelte, tutte fresche. Soddisfatto ogni giorno.",F&B,positive,F&B,positive,0.814,0.781
+290,Colazione finita presto,Arrivato alle 9 il buffet era quasi completamente esaurito. Rimasti solo gli avanzi.,F&B,negative,F&B,negative,0.781,0.793
+291,Accoglienza calorosa,Al mio arrivo sono stato accolto con un sorriso e una spiegazione chiara dei servizi.,Reception,positive,Reception,positive,0.777,0.755
+292,Check-out rapido,Il check-out è stato veloce e senza intoppi. Mi hanno anche preparato il conto in anticipo.,Reception,positive,Reception,positive,0.868,0.736
+293,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.85,0.846
+294,Conto errato,Al momento del check-out ho trovato addebiti non corretti. Ci è voluto molto tempo per sistemare.,Reception,negative,Reception,negative,0.772,0.744
+295,Qualità scarsa,I piatti sembravano pre-confezionati e riscaldati. Niente a che vedere con la descrizione nel menu.,F&B,negative,F&B,negative,0.818,0.737
+296,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento.,Housekeeping,negative,Housekeeping,negative,0.866,0.782
+297,Soggiorno altalenante,Camera pulita ma check-in caotico. Il ristorante però ci ha salvato la serata con un'ottima cena.,Housekeeping,positive,Housekeeping,positive,0.562,0.542
+298,Colazione deludente,"Il buffet era scarno: pane raffermo, succhi di frutta finti e nessuna scelta salata. Delusione.",F&B,negative,F&B,negative,0.82,0.8
+299,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine.",Housekeeping,positive,Housekeeping,positive,0.833,0.779
+300,Personale non informato,Ho chiesto informazioni sul bus e lo staff non sapeva nulla. Deludente e poco professionale.,Reception,negative,Reception,negative,0.814,0.769
+301,Arrivo anticipato gestito bene,Ho chiesto di fare il check-in prima dell'orario e me lo hanno permesso senza problemi. Tornerò sicuramente.,Reception,positive,Reception,positive,0.815,0.848
+302,Check-out complicato,Il check-out ha richiesto quasi un'ora a causa di errori nel conto. Esperienza stressante.,Reception,negative,Reception,negative,0.809,0.79
+303,Ristorante eccellente,La cena al ristorante dell'hotel era di ottima qualità. Piatti curati e porzioni generose.,F&B,positive,F&B,positive,0.83,0.742
+304,Servizio lento,I camerieri erano pochi e lentissimi. La cena si è trasformata in un'attesa estenuante. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.764,0.835
+305,Buffet abbondante,"Il buffet del mattino offriva tantissime scelte, tutte fresche. Soddisfatto ogni giorno.",F&B,positive,F&B,positive,0.814,0.781
+306,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente.,Housekeeping,negative,Housekeeping,negative,0.829,0.792
+307,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.826,0.84
+308,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.793,0.858
+309,Ottimo supporto,Ho avuto un problema con la chiave e lo staff lo ha risolto in pochi minuti. Ottimo. Tornerò sicuramente.,Reception,positive,Reception,positive,0.766,0.82
+310,Personale disponibile,Il personale della reception è stato sempre gentile e pronto a risolvere ogni problema.,Reception,positive,Reception,positive,0.805,0.729
+311,Qualità scarsa,I piatti sembravano pre-confezionati e riscaldati. Niente a che vedere con la descrizione nel menu. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.807,0.8
+312,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana.,Housekeeping,negative,Housekeeping,negative,0.827,0.816
+313,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro.",Housekeeping,positive,Housekeeping,positive,0.803,0.808
+314,Informazioni utili,"La receptionist mi ha fornito mappe, consigli sui ristoranti e prenotato un taxi. Perfetta. Tornerò sicuramente.",Reception,positive,Reception,positive,0.741,0.77
+315,Bar sempre chiuso,Il bar era spesso chiuso anche nelle ore indicate. Ho dovuto uscire per trovare qualcosa da bere. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.76,0.811
+316,Colazione puntuale in camera,Ho ordinato la colazione in camera ed è arrivata perfettamente in orario e ben presentata.,F&B,positive,F&B,positive,0.768,0.795
+317,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception.,Housekeeping,negative,Housekeeping,negative,0.805,0.831
+318,Menu vario,Il menu offriva piatti tipici regionali e internazionali. Ho mangiato benissimo per tutta la settimana. Tornerò sicuramente.,F&B,positive,F&B,positive,0.765,0.797
+319,Attesa interminabile al check-in,Ho aspettato più di 30 minuti per fare il check-in. Una sola persona allo sportello.,Reception,negative,Reception,negative,0.808,0.802
+320,Ristorante eccellente,La cena al ristorante dell'hotel era di ottima qualità. Piatti curati e porzioni generose.,F&B,positive,F&B,positive,0.83,0.742
+321,Esperienza mista,"Stanza sporca al primo giorno, poi sistemata. La colazione era buona ma il bar chiudeva presto.",Housekeeping,negative,F&B,negative,0.509,0.599
+322,Nessuna risposta al telefono,Ho chiamato la reception tre volte ma non hanno mai risposto. Pessimo servizio.,Reception,negative,Reception,negative,0.749,0.807
+323,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri.",Housekeeping,negative,Housekeeping,negative,0.84,0.779
+324,Staff del ristorante premuroso,"I camerieri erano attenti e gentili, suggerendo piatti e vini in modo professionale.",F&B,positive,F&B,positive,0.815,0.764
+325,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.802,0.863
+326,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato.,Housekeeping,negative,Housekeeping,negative,0.865,0.801
+327,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.834,0.86
+328,Ottimo supporto,Ho avuto un problema con la chiave e lo staff lo ha risolto in pochi minuti. Ottimo. Tornerò sicuramente.,Reception,positive,Reception,positive,0.766,0.82
+329,Ottimo supporto,Ho avuto un problema con la chiave e lo staff lo ha risolto in pochi minuti. Ottimo.,Reception,positive,Reception,positive,0.786,0.757
+330,Cattivo odore in camera,La camera aveva un odore sgradevole di umido e i cuscini sembravano vecchi. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.834,0.86
+331,Arrivo anticipato gestito bene,Ho chiesto di fare il check-in prima dell'orario e me lo hanno permesso senza problemi.,Reception,positive,Reception,positive,0.834,0.794
+332,Colazione puntuale in camera,Ho ordinato la colazione in camera ed è arrivata perfettamente in orario e ben presentata. Tornerò sicuramente.,F&B,positive,F&B,positive,0.741,0.851
+333,Problemi con prenotazione,Hanno perso la mia prenotazione e mi hanno assegnato una camera diversa senza avvisarmi. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.785,0.766
+334,Qualità scarsa,I piatti sembravano pre-confezionati e riscaldati. Niente a che vedere con la descrizione nel menu. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.807,0.8
+335,Colazione finita presto,Arrivato alle 9 il buffet era quasi completamente esaurito. Rimasti solo gli avanzi. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.77,0.844
+336,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.868,0.88
+337,Opzioni vegetariane assenti,Nessun piatto vegetariano al ristorante. Per chi non mangia carne è stato un problema.,F&B,negative,F&B,negative,0.792,0.774
+338,Tempi di attesa lunghissimi,Abbiamo aspettato quasi un'ora per essere serviti a cena. Inaccettabile per un hotel di questo livello.,F&B,negative,F&B,negative,0.791,0.826
+339,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente.,Housekeeping,negative,Housekeeping,negative,0.829,0.792
+340,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.82,0.843
+341,Buffet abbondante,"Il buffet del mattino offriva tantissime scelte, tutte fresche. Soddisfatto ogni giorno.",F&B,positive,F&B,positive,0.814,0.781
+342,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata.,Housekeeping,positive,Housekeeping,positive,0.839,0.82
+343,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia.,Housekeeping,positive,Housekeeping,positive,0.873,0.834
+344,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.792,0.875
+345,Staff del ristorante premuroso,"I camerieri erano attenti e gentili, suggerendo piatti e vini in modo professionale. Tornerò sicuramente.",F&B,positive,F&B,positive,0.794,0.823
+346,Personale disponibile,Il personale della reception è stato sempre gentile e pronto a risolvere ogni problema.,Reception,positive,Reception,positive,0.805,0.729
+347,Cena romantica perfetta,Abbiamo cenato nel ristorante interno: pesce freschissimo e un'ottima carta dei vini. Tornerò sicuramente.,F&B,positive,F&B,positive,0.767,0.819
+348,Ristorante eccellente,La cena al ristorante dell'hotel era di ottima qualità. Piatti curati e porzioni generose.,F&B,positive,F&B,positive,0.83,0.742
+349,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento.,Housekeeping,negative,Housekeeping,negative,0.866,0.782
+350,Buffet abbondante,"Il buffet del mattino offriva tantissime scelte, tutte fresche. Soddisfatto ogni giorno.",F&B,positive,F&B,positive,0.814,0.781
+351,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante.,Housekeeping,positive,Housekeeping,positive,0.87,0.772
+352,Personale disponibile,Il personale della reception è stato sempre gentile e pronto a risolvere ogni problema. Tornerò sicuramente.,Reception,positive,Reception,positive,0.786,0.81
+353,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.833,0.876
+354,Personale non informato,Ho chiesto informazioni sul bus e lo staff non sapeva nulla. Deludente e poco professionale. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.791,0.827
+355,Conto errato,Al momento del check-out ho trovato addebiti non corretti. Ci è voluto molto tempo per sistemare. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.753,0.805
+356,Bagno perfetto,"Il bagno era pulitissimo, con dotazioni rinnovate ogni giorno. Massima cura nei dettagli.",Housekeeping,positive,Housekeeping,positive,0.844,0.787
+357,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri.",Housekeeping,negative,Housekeeping,negative,0.84,0.779
+358,Colazione puntuale in camera,Ho ordinato la colazione in camera ed è arrivata perfettamente in orario e ben presentata.,F&B,positive,F&B,positive,0.768,0.795
+359,Check-in velocissimo,Il check-in è durato meno di cinque minuti. Staff cordiale e molto efficiente.,Reception,positive,Reception,positive,0.847,0.749
+360,Pagamento semplice,Il pagamento è stato gestito in modo rapido e trasparente. Nessuna sorpresa sul conto.,Reception,positive,Reception,positive,0.792,0.788
+361,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine.",Housekeeping,positive,Housekeeping,positive,0.833,0.779
+362,Arrivo anticipato gestito bene,Ho chiesto di fare il check-in prima dell'orario e me lo hanno permesso senza problemi.,Reception,positive,Reception,positive,0.834,0.794
+363,Cibo freddo servito,Il cibo al ristorante è arrivato freddo due sere di fila. Il personale non se n'è scusato.,F&B,negative,F&B,negative,0.813,0.804
+364,Tempi di attesa lunghissimi,Abbiamo aspettato quasi un'ora per essere serviti a cena. Inaccettabile per un hotel di questo livello.,F&B,negative,F&B,negative,0.791,0.826
+365,Accoglienza calorosa,Al mio arrivo sono stato accolto con un sorriso e una spiegazione chiara dei servizi. Tornerò sicuramente.,Reception,positive,Reception,positive,0.762,0.819
+366,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.85,0.846
+367,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata.,Housekeeping,positive,Housekeeping,positive,0.839,0.82
+368,Cibo freddo servito,Il cibo al ristorante è arrivato freddo due sere di fila. Il personale non se n'è scusato. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.806,0.849
+369,Informazioni utili,"La receptionist mi ha fornito mappe, consigli sui ristoranti e prenotato un taxi. Perfetta.",Reception,positive,Reception,positive,0.752,0.693
+370,Bar sempre chiuso,Il bar era spesso chiuso anche nelle ore indicate. Ho dovuto uscire per trovare qualcosa da bere.,F&B,negative,F&B,negative,0.769,0.762
+371,Cibo freddo servito,Il cibo al ristorante è arrivato freddo due sere di fila. Il personale non se n'è scusato.,F&B,negative,F&B,negative,0.813,0.804
+372,Bagno trascurato,Il bagno presentava aloni sul lavandino e capelli sulla doccia. Assolutamente inaccettabile.,Housekeeping,negative,Housekeeping,negative,0.796,0.81
+373,Stanza fresca e ordinata,Ogni mattina la camera veniva rifatta in modo impeccabile. Molto soddisfatto della pulizia. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.868,0.88
+374,Camera non rifatta,Sono rientrato nel pomeriggio e la camera non era stata ancora pulita. Servizio lento.,Housekeeping,negative,Housekeeping,negative,0.866,0.782
+375,Colazione puntuale in camera,Ho ordinato la colazione in camera ed è arrivata perfettamente in orario e ben presentata. Tornerò sicuramente.,F&B,positive,F&B,positive,0.741,0.851
+376,Staff scortese,Il personale alla reception era freddo e scocciato. Non si sono nemmeno scusati per il ritardo. Non consiglio questo hotel.,Reception,negative,Reception,negative,0.746,0.864
+377,Camera sporca,La camera non era stata pulita a fondo: polvere sui mobili e pavimento non lavato.,Housekeeping,negative,Housekeeping,negative,0.865,0.801
+378,Informazioni utili,"La receptionist mi ha fornito mappe, consigli sui ristoranti e prenotato un taxi. Perfetta. Tornerò sicuramente.",Reception,positive,Reception,positive,0.741,0.77
+379,Opzioni vegetariane assenti,Nessun piatto vegetariano al ristorante. Per chi non mangia carne è stato un problema.,F&B,negative,F&B,negative,0.792,0.774
+380,Qualità scarsa,I piatti sembravano pre-confezionati e riscaldati. Niente a che vedere con la descrizione nel menu.,F&B,negative,F&B,negative,0.818,0.737
+381,Cena romantica perfetta,Abbiamo cenato nel ristorante interno: pesce freschissimo e un'ottima carta dei vini.,F&B,positive,F&B,positive,0.789,0.763
+382,Tempi di attesa lunghissimi,Abbiamo aspettato quasi un'ora per essere serviti a cena. Inaccettabile per un hotel di questo livello.,F&B,negative,F&B,negative,0.791,0.826
+383,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.816,0.869
+384,Staff del ristorante premuroso,"I camerieri erano attenti e gentili, suggerendo piatti e vini in modo professionale.",F&B,positive,F&B,positive,0.815,0.764
+385,Camera sempre in ordine,Non ho mai trovato disordine. La camera era sempre pulita e profumata al mio ritorno.,Housekeeping,positive,Housekeeping,positive,0.857,0.798
+386,Cena romantica perfetta,Abbiamo cenato nel ristorante interno: pesce freschissimo e un'ottima carta dei vini.,F&B,positive,F&B,positive,0.789,0.763
+387,Personale non informato,Ho chiesto informazioni sul bus e lo staff non sapeva nulla. Deludente e poco professionale.,Reception,negative,Reception,negative,0.814,0.769
+388,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri. Non consiglio questo hotel.",Housekeeping,negative,Housekeeping,negative,0.83,0.832
+389,Sporcizia nei dettagli,"La pulizia era superficiale: telecomando appiccicoso, bicchieri sul comodino rimasti da ieri.",Housekeeping,negative,Housekeeping,negative,0.84,0.779
+390,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata.,Housekeeping,positive,Housekeeping,positive,0.839,0.82
+391,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata. Tornerò sicuramente.,Housekeeping,positive,Housekeeping,positive,0.833,0.876
+392,Camera impeccabile,La camera era pulitissima e il letto rifatto perfettamente. Asciugamani profumati e bagno brillante.,Housekeeping,positive,Housekeeping,positive,0.87,0.772
+393,Check-in velocissimo,Il check-in è durato meno di cinque minuti. Staff cordiale e molto efficiente.,Reception,positive,Reception,positive,0.847,0.749
+394,Menu vario,Il menu offriva piatti tipici regionali e internazionali. Ho mangiato benissimo per tutta la settimana.,F&B,positive,F&B,positive,0.785,0.726
+395,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro.",Housekeeping,positive,Housekeeping,positive,0.803,0.808
+396,Check-out complicato,Il check-out ha richiesto quasi un'ora a causa di errori nel conto. Esperienza stressante.,Reception,negative,Reception,negative,0.809,0.79
+397,"Ottima pulizia, tutto il resto meno",La camera era impeccabile. Peccato per il check-in caotico e la colazione deludente.,Housekeeping,positive,Housekeeping,positive,0.572,0.634
+398,Servizio lento,I camerieri erano pochi e lentissimi. La cena si è trasformata in un'attesa estenuante. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.764,0.835
+399,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro.",Housekeeping,positive,Housekeeping,positive,0.803,0.808
+400,Colazione finita presto,Arrivato alle 9 il buffet era quasi completamente esaurito. Rimasti solo gli avanzi.,F&B,negative,F&B,negative,0.781,0.793
+401,Pulizia puntuale,Le cameriere sono passate ogni mattina con puntualità. Camera sempre pronta e ordinata.,Housekeeping,positive,Housekeeping,positive,0.839,0.82
+402,Lenzuola non cambiate,In tre giorni non hanno mai cambiato le lenzuola. Dovrò lamentarmi alla reception.,Housekeeping,negative,Housekeeping,negative,0.805,0.831
+403,Asciugamani non sostituiti,Non hanno mai cambiato gli asciugamani. Mi sono dovuto arrangiare per tutta la settimana. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.816,0.869
+404,Pulizia insufficiente,Trovato residui di cibo sotto il letto e vetri del bagno sporchi. Deludente. Non consiglio questo hotel.,Housekeeping,negative,Housekeeping,negative,0.82,0.843
+405,Opzioni vegetariane assenti,Nessun piatto vegetariano al ristorante. Per chi non mangia carne è stato un problema. Non consiglio questo hotel.,F&B,negative,F&B,negative,0.782,0.827
+406,Ottimo servizio pulizie,"Il personale delle pulizie è stato fantastico, sempre discreto e preciso nel lavoro. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.802,0.863
+407,Pulizia eccellente,"Ho trovato la stanza in ottime condizioni: pavimento lucido, nessun capello, tutto in ordine. Tornerò sicuramente.",Housekeeping,positive,Housekeeping,positive,0.826,0.84
+408,Staff del ristorante premuroso,"I camerieri erano attenti e gentili, suggerendo piatti e vini in modo professionale.",F&B,positive,F&B,positive,0.815,0.764
